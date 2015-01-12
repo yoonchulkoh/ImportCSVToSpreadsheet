@@ -16,7 +16,7 @@ Set up spreadsheet_id.
 A spreadsheet is prepared beforehand.
 spreadsheet_id is located between the URL of the "d" and "edit".
 
-run.
+Run.
 ```
 $ bundle exec ruby ImportCSVToSpreadsheet.rb [csv file name]
 ```
@@ -38,7 +38,7 @@ please write to config.yml.
 
 ```
 
-rerun.
+Rerun.
 ```
 $ bundle exec ruby ImportCSVToSpreadsheet.rb [csv file name]
 ```
