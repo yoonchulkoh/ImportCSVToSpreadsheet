@@ -14,7 +14,7 @@ Set up your client_id and client_secret.
 
 Set up spreadsheet_id.
 A spreadsheet is prepared beforehand.
-spreadsheet_id is located between the URL of the "d" and "edit".
+spreadsheet_id is located between "d" and "edit" in the URL.
 
 Run.
 ```
